@@ -1,4 +1,4 @@
-onstructing Digital Language Toolkits
+Constructing Digital Language Toolkits
 
 
 course week by week
